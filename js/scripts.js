@@ -7,8 +7,8 @@ async function carregarProdutos() {
 
         dados.products.forEach((produto) => {
             const card = `
-             <div class="col mb-5">
-            <div class="card h-100">
+             <div class="col mb-4" style="background-color: #e6f1c2;">
+            <div class="card h-100" style="background-color: #779c07;">
               <!-- Product image-->
               <img
                 class="card-img-top"
