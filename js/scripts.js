@@ -27,7 +27,7 @@ async function carregarProdutos() {
               <!-- Product actions-->
               <div class="card-footer p-4 pt-0 border-top-0 bg-transparent">
                 <div class="text-center">
-                  <a class="btn btn-outline-dark mt-auto" href="#"
+                  <a class="btn btn-outline-dark mt-auto" href="item.html?id=${produto.id}"
                     >Ver mais</a
                   >
                 </div>
